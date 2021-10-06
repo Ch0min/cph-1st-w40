@@ -18,7 +18,7 @@ public class Main {
         // calling 2.k
         building.oddOrNot();
 
-        // 2.h ?!"?#"?!#?!"#?!#?!?#"!?#?"!#?"!?
+        // 2.h ??
 
     }
 
